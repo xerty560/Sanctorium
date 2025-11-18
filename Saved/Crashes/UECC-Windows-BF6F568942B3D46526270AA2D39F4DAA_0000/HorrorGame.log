@@ -1,0 +1,1336 @@
+﻿Log file open, 10/28/25 18:45:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18692)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HorrorGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\micro\OneDrive\Documents\Unreal Projects\HorrorGame\HorrorGame.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (25H2) [10.0.26200.6901] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i5-12450H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b48385204a8f8514ef47f7add0ea4835"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 2.314301
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-BF6F568942B3D46526270AA2D39F4DAA
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.12 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.13 seconds
+LogConfig: Display: Loading IOS ini files took 0.15 seconds
+LogConfig: Display: Loading Mac ini files took 0.16 seconds
+LogConfig: Display: Loading TVOS ini files took 0.18 seconds
+LogConfig: Display: Loading Unix ini files took 0.19 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.22 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.22 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.10 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogConfig: Display: Loading Windows ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (25H2) [10.0.26200.6901] (), CPU: 12th Gen Intel(R) Core(TM) i5-12450H, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2025.10.28-13.15.49:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2025.10.28-13.15.49:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2025.10.28-13.15.49:383][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2025.10.28-13.15.49:384][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2025.10.28-13.15.49:386][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2025.10.28-13.15.49:413][  0]LogD3D12RHI: Aftermath initialized
+[2025.10.28-13.15.49:413][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2025.10.28-13.15.50:555][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2050 (Max supported Feature Level 12_1, shader model 6.6)
+[2025.10.28-13.15.50:555][  0]LogD3D12RHI: Adapter has 3964MB of dedicated video memory, 0MB of dedicated system memory, and 8012MB of shared system memory, 1 output[s]
+[2025.10.28-13.15.50:690][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2025.10.28-13.15.50:690][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8012MB of shared system memory, 0 output[s]
+[2025.10.28-13.15.50:713][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.6)
+[2025.10.28-13.15.50:713][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8012MB of shared system memory, 0 output[s]
+[2025.10.28-13.15.50:713][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2025.10.28-13.15.50:713][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2025.10.28-13.15.50:713][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2025.10.28-13.15.50:714][  0]LogHAL: Display: Platform has ~ 16 GB [16802910208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.10.28-13.15.50:714][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2025.10.28-13.15.50:714][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.10.28-13.15.50:714][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.10.28-13.15.50:714][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.10.28-13.15.50:714][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/Config/WindowsEditor/Editor.ini]
+[2025.10.28-13.15.50:714][  0]LogInit: Computer: ABHIGYAN
+[2025.10.28-13.15.50:714][  0]LogInit: User: micro
+[2025.10.28-13.15.50:714][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.10.28-13.15.50:714][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.10.28-13.15.50:714][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2025.10.28-13.15.50:714][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.10.28-13.15.50:714][  0]LogMemory: Process Physical Memory: 268.80 MB used, 550.52 MB peak
+[2025.10.28-13.15.50:714][  0]LogMemory: Process Virtual Memory: 215.14 MB used, 234.25 MB peak
+[2025.10.28-13.15.50:714][  0]LogMemory: Physical Memory: 7140.18 MB used,  8884.32 MB free, 16024.50 MB total
+[2025.10.28-13.15.50:714][  0]LogMemory: Virtual Memory: 8117.42 MB used,  22243.08 MB free, 30360.50 MB total
+[2025.10.28-13.15.50:714][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2025.10.28-13.15.50:721][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.10.28-13.15.50:739][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2025.10.28-13.15.50:740][  0]LogInit: Using OS detected language (en-US).
+[2025.10.28-13.15.50:740][  0]LogInit: Using OS detected locale (en-IN).
+[2025.10.28-13.15.50:745][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2025.10.28-13.15.51:001][  0]LogInit: Setting process to per monitor DPI aware
+[2025.10.28-13.15.51:022][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2025.10.28-13.15.51:022][  0]LogWindowsTextInputMethodSystem:   - English (India) - (Keyboard).
+[2025.10.28-13.15.51:022][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2025.10.28-13.15.51:022][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2025.10.28-13.15.51:022][  0]LogWindowsTextInputMethodSystem:   - English (India) - Touch Input Correction (TSF IME).
+[2025.10.28-13.15.51:022][  0]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2025.10.28-13.15.51:049][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.10.28-13.15.51:049][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.10.28-13.15.51:291][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2025.10.28-13.15.51:300][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2025.10.28-13.15.51:300][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2025.10.28-13.15.52:229][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2025.10.28-13.15.52:281][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2025.10.28-13.15.52:289][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2025.10.28-13.15.52:309][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2025.10.28-13.15.52:338][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2025.10.28-13.15.52:338][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2025.10.28-13.15.52:387][  0]LogD3D12RHI:     GPU DeviceId: 0x25ad (for the marketing name, search the web for "GPU Device Id")
+[2025.10.28-13.15.52:387][  0]LogWindows: Attached monitors:
+[2025.10.28-13.15.52:387][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2025.10.28-13.15.52:387][  0]LogWindows: Found 1 attached monitors.
+[2025.10.28-13.15.52:387][  0]LogWindows: EnumDisplayDevices:
+[2025.10.28-13.15.52:387][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2025.10.28-13.15.52:387][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2025.10.28-13.15.52:388][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2025.10.28-13.15.52:388][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2025.10.28-13.15.52:388][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2050' (P:0 D:0), name: '\\.\DISPLAY5'
+[2025.10.28-13.15.52:388][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2025.10.28-13.15.52:388][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2050
+[2025.10.28-13.15.52:388][  0]LogD3D12RHI:   Driver Version: 577.03 (internal:32.0.15.7703, unified:577.03)
+[2025.10.28-13.15.52:388][  0]LogD3D12RHI:      Driver Date: 7-28-2025
+[2025.10.28-13.15.52:388][  0]LogRHI: Texture pool is 2122 MB (70% of 3032 MB)
+[2025.10.28-13.15.52:388][  0]LogD3D12RHI: Async texture creation enabled
+[2025.10.28-13.15.52:388][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2025.10.28-13.15.52:406][  0]LogRHI: GeForceNow SDK initialized: 0
+[2025.10.28-13.15.52:414][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/HorrorGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/TurnkeyReport_0.log" -log="C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/TurnkeyLog_0.log" -project="C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/HorrorGame.uproject"  -platform=all'
+[2025.10.28-13.15.52:414][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/HorrorGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/TurnkeyReport_0.log" -log="C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/TurnkeyLog_0.log" -project="C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/HorrorGame.uproject"  -platform=all" ]
+[2025.10.28-13.15.52:447][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2025.10.28-13.15.52:458][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2025.10.28-13.15.52:458][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2025.10.28-13.15.52:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.10.28-13.15.52:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.10.28-13.15.52:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.10.28-13.15.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.10.28-13.15.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.10.28-13.15.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.10.28-13.15.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.10.28-13.15.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.10.28-13.15.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.10.28-13.15.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.10.28-13.15.52:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2025.10.28-13.15.52:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2025.10.28-13.15.52:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.10.28-13.15.52:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.10.28-13.15.52:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.10.28-13.15.52:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2025.10.28-13.15.52:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.10.28-13.15.52:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.10.28-13.15.52:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2025.10.28-13.15.52:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2025.10.28-13.15.52:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2025.10.28-13.15.52:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.10.28-13.15.52:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.10.28-13.15.52:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.10.28-13.15.52:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2025.10.28-13.15.52:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.10.28-13.15.52:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.10.28-13.15.52:533][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2025.10.28-13.15.52:544][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.10.28-13.15.52:548][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2025.10.28-13.15.52:548][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2025.10.28-13.15.52:548][  0]LogTargetPlatformManager:   ADPCM
+[2025.10.28-13.15.52:548][  0]LogTargetPlatformManager:   PCM
+[2025.10.28-13.15.52:552][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2025.10.28-13.15.52:552][  0]LogTargetPlatformManager:   BINKA
+[2025.10.28-13.15.52:552][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2025.10.28-13.15.52:552][  0]LogTargetPlatformManager:   OGG
+[2025.10.28-13.15.52:552][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2025.10.28-13.15.52:552][  0]LogTargetPlatformManager:   OPUS
+[2025.10.28-13.15.52:611][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   SF_METAL
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2025.10.28-13.15.52:619][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2025.10.28-13.15.52:623][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2025.10.28-13.15.52:623][  0]LogTargetPlatformManager:   VVM_1_0
+[2025.10.28-13.15.52:623][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2025.10.28-13.15.52:623][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2025.10.28-13.15.52:623][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2025.10.28-13.15.52:623][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2025.10.28-13.15.52:623][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2025.10.28-13.15.52:623][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.10.28-13.15.52:624][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2025.10.28-13.15.52:626][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2025.10.28-13.15.52:628][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2025.10.28-13.15.52:629][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2025.10.28-13.15.52:631][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2025.10.28-13.15.52:633][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2025.10.28-13.15.52:640][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.10.28-13.15.52:640][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2025.10.28-13.15.52:640][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.10.28-13.15.52:640][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2025.10.28-13.15.52:674][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2025.10.28-13.15.52:674][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.10.28-13.15.52:674][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2025.10.28-13.15.52:699][  0]LogDerivedDataCache: Speed tests for C:/Users/micro/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2025.10.28-13.15.52:699][  0]LogDerivedDataCache: Display: Performance to C:/Users/micro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=578.27MBs, RandomWriteSpeed=42.40MBs. Assigned SpeedClass 'Local'
+[2025.10.28-13.15.52:700][  0]LogDerivedDataCache: Using Local data cache path C:/Users/micro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.10.28-13.15.52:700][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.10.28-13.15.52:701][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2025.10.28-13.15.52:711][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2025.10.28-13.15.52:711][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.10.28-13.15.52:712][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Intermediate/Shaders/WorkingDirectory/21216/).
+[2025.10.28-13.15.52:712][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/micro/AppData/Local/Temp/UnrealShaderWorkingDir/B708AA04427FF80199F2D985AF4A1167/'.
+[2025.10.28-13.15.52:712][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.10.28-13.15.52:712][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2025.10.28-13.15.54:737][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2025.10.28-13.15.54:737][  0]LogSlate: Using FreeType 2.10.0
+[2025.10.28-13.15.54:737][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.10.28-13.15.54:793][  0]LogAssetRegistry: FAssetRegistry took 0.0166 seconds to start up
+[2025.10.28-13.15.54:805][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2025.10.28-13.15.55:233][  0]LogSerialization: UsePackageTrailer: 'false'
+[2025.10.28-13.15.55:235][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2025.10.28-13.15.55:895][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2025.10.28-13.15.55:895][  0]LogDeviceProfileManager: Active device profile: [0000070AF63F5B00][0000070AE6F15000 50] WindowsEditor
+[2025.10.28-13.15.55:896][  0]LogDeviceProfileManager: Profiles: [0000070AF63F55C0][0000070AE6F1A000 50] Windows, [0000070AF63F5B00][0000070AE6F15000 50] WindowsEditor, [0000070AF63F3100][0000070AE6F12800 50] WindowsServer, [0000070AF63F1180][0000070AE6D9A000 50] WindowsClient, [0000070AF63F4280][0000070AE6F17800 50] IOS, [0000070AF63F40C0][0000070AF65C0000 50] iPadAir2, [0000070AF63F5940][0000070AF65C7800 50] IPadPro, [0000070AF63F6040][0000070AF65C5000 50] iPadAir3, [0000070AF63F01C0][0000070AF65CA000 50] iPadAir4, [0000070AF63F5CC0][0000070AF65CC800 50] iPadMini4, [0000070AF63F24C0][0000070AD4F25000 50] iPadMini5, [0000070AF63F6200][0000070AF6620000 50] iPadMini6, [0000070AF63F8C00][0000070AF662A000 50] iPhone6S, [0000070AF63F8F80][0000070AF6627800 50] iPhone7, [0000070AF63F9300][0000070AF6625000 50] iPodTouch7, [0000070AF63F4440][0000070AF662C800 50] iPhone6SPlus, [0000070AF63F86C0][0000070AF65C2800 50] iPhone7Plus, [0000070AF63F1880][0000070AF65F0000 50] iPhoneSE, [0000070AF63F5080][0000070AF65F5000 50] iPhone8, [0000070AF63F8500][0000070AF65F7800 50] iPhone8Plus, [0000070AF63F9680][0000070AF65FA000 50] iPhoneX, [0000070AF63F5400][0000070AF65FC800 50] iPhoneXS, [0000070AF63F8340][0000070AF6622800 50] iPhoneXSMax, [0000070AF63F9BC0][0000070AF6600000 50] iPhoneXR, [0000070AF63F8180][0000070AF6605000 50] iPhone11, [0000070AF63F4EC0][0000070AF6607800 50] iPhone11Pro, [0000070AF63F9140][0000070AF660A000 50] iPhone11ProMax, [0000070AF63F16C0][0000070AF660C800 50] iPhoneSE2, [0000070AF63F2F40][0000070AF65F2800 50] iPhone12Mini, [0000070AF63F2D80][0000070AF6640000 50] iPhone12, [0000070AF63F3480][0000070AF6645000 50] iPhone12Pro, [0000070AF63F0FC0][0000070AF6647800 50] iPhone12ProMax, [0000070AF63F7700][0000070AF664A000 50] iPhone13Mini, [0000070AF63F94C0][0000070AF664C800 50] iPhone13, [0000070AF63F78C0][0000070AF6602800 50] iPhone13Pro, [0000070AF63F2300][0000070AF6650000 50] iPhone13ProMax, [0000070AF63F2BC0][0000070AF6655000 50] iPadPro105, [0000070AF63F1F80][0000070AF6657800 50] iPadPro129, [0000070AF63F3D40][0000070AF665A000 50] iPadPro97, [0000070AF63F3B80][0000070AF665C800 50] iPadPro2_129, [0000070AF63F47C0][0000070AF6642800 50] iPad5, [0000070AF63F8880][0000070AF6660000 50] iPad6, [0000070AF63F2140][0000070AF6665000 50] iPad7, [0000070AF63F7FC0][0000070AF6667800 50] iPad8, [0000070AF63F6740][0000070AF666A000 50] iPad9, [0000070AF63F7380][0000070AF666C800 50] iPadPro11, [0000070AF63F6C80][0000070AF6652800 50] iPadPro2_11, [0000070AF63F6AC0][0000070AF6670000 50] iPadPro3_11, [0000070AF63F6E40][0000070AF6675000 50] iPadPro3_129, [0000070AF63F1A40][0000070AF6677800 50] iPadPro4_129, [0000070AF63F39C0][0000070AF667A000 50] iPadPro5_129, [0000070AF63F1C00][0000070AF667C800 50] AppleTV, [0000070AF63F4980][0000070AF6662800 50] AppleTV4K, [0000070AF63F8DC0][0000070AF66A0000 50] TVOS, [0000070AF63FB280][0000070AF66A7800 50] Mac, [0000070AF63FB600][0000070AF66A5000 50] MacEditor, [0000070AF63F6580][0000070AF66AA000 50] MacClient, [0000070AF63F9840][0000070AF66AC800 50] MacServer, [0000070AF63F4B40][0000070AF66C0000 50] Linux, [0000070AF63FB440][0000070AF66C2800 50] LinuxEditor, [0000070AF63FA640][0000070AF66C7800 50] LinuxArm64Editor, [0000070AF63FBB40][0000070AF66CA000 50] LinuxArm64, [0000070AF63FA9C0][0000070AF66CC800 50] LinuxClient, [0000070AF63F7C40][0000070AF6672800 50] LinuxArm64Client, [0000070AF63F3800][0000070AF66C5000 50] LinuxServer, [0000070AF63F3F00][0000070AF66B0000 50] LinuxArm64Server, [0000070AF63F9A00][0000070AF66B5000 50] Android, [0000070AF63F7E00][0000070AF66B7800 50] Android_Preview_OpenGL, [0000070AF63F7540][0000070AF66BA000 50] Android_Preview_Vulkan, [0000070AF63F5240][0000070AF66BC800 50] Android_Low, [0000070AF63F63C0][0000070AF66A2800 50] Android_Mid, [0000070AF63F7A80][0000070AF66D0000 50] Android_High, [0000070AF63FB0C0][0000070AF66D5000 50] Android_Default, [0000070AF63F8A40][0000070AF66D7800 50] Android_Adreno4xx, [0000070AF63F2A00][0000070AF66DA000 50] Android_Adreno5xx_Low, [0000070AF63FAD40][0000070AF66DC800 50] Android_Adreno5xx, [0000070AF63F9D80][0000070AF66B2800 50] Android_Adreno6xx, [0000070AF63F6900][0000070AF66E0000 50] Android_Adreno6xx_Vulkan, [0000070AF63FAF00][0000070AF66E5000 50] Android_Adreno7xx, [0000070AF63FA100][0000070AF66E7800 50] Android_Adreno7xx_Vulkan, [0000070AF63F5E80][0000070AF66EA000 50] Android_Mali_T6xx, [0000070AF63FC240][0000070AF66EC800 50] Android_Mali_T7xx, [0000070AF63FBD00][0000070AF66D2800 50] Android_Mali_T8xx, [0000070AF63F7000][0000070AF66F0000 50] Android_Mali_G71, [0000070AF63F1DC0][0000070AF66F5000 50] Android_Mali_G72, [0000070AF63FBEC0][0000070AF66F7800 50] Android_Mali_G72_Vulkan, [0000070AF63FC940][0000070AF66FA000 50] Android_Mali_G76, [0000070AF63F1500][0000070AF66FC800 50] Android_Mali_G76_Vulkan, [0000070AF63F4600][0000070AF66E2800 50] Android_Mali_G77, [0000070AF63F9F40][0000070AF6700000 50] Android_Mali_G77_Vulkan, [0000070AF63FC400][0000070AF6705000 50] Android_Mali_G78, [0000070AF63FD3C0][0000070AF6707800 50] Android_Mali_G78_Vulkan, [0000070AF63FC080][0000070AF670A000 50] Android_Mali_G710, [0000070AF63F4D00][0000070AF670C800 50] Android_Mali_G710_Vulkan, [0000070AF63FCE80][0000070AF66F2800 50] Android_Xclipse_920, [0000070AF63FB7C0][0000070AF6710000 50] Android_Xclipse_920_Vulkan, [0000070AF63FDC80][0000070AF6715000 50] Android_Vulkan_SM5, [0000070AF63FD040][0000070AF6717800 50] Android_PowerVR_G6xxx, [0000070AF63F71C0][0000070AF671A000 50] Android_PowerVR_GT7xxx, [0000070AF63F1340][0000070AF671C800 50] Android_PowerVR_GE8xxx, [0000070AF63FA800][0000070AF6702800 50] Android_PowerVR_GM9xxx, [0000070AF63FE540][0000070AF6720000 50] Android_PowerVR_GM9xxx_Vulkan, [0000070AF63FCB00][0000070AF6725000 50] Android_TegraK1, [0000070AF63FC5C0][0000070AF6727800 50] Android_Unknown_Vulkan, [0000070AF63FA2C0][0000070AF672A000 50] Oculus_Quest, [0000070AF63FDAC0][0000070AF672C800 50] Oculus_Quest2, [0000070AF63FEFC0][0000070AF6712800 50] HoloLens, 
+[2025.10.28-13.15.55:896][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.10.28-13.15.55:899][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2025.10.28-13.15.55:899][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2025.10.28-13.15.55:899][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2025.10.28-13.15.55:899][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2025.10.28-13.15.55:899][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2025.10.28-13.15.55:934][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.10.28-13.15.56:177][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.10.28-13.15.56:177][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.10.28-13.15.56:177][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.10.28-13.15.56:177][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.10.28-13.15.56:177][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.10.28-13.15.56:200][  0]LogNetVersion: HorrorGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1246264008)
+[2025.10.28-13.15.56:446][  0]LogSlate: Border
+[2025.10.28-13.15.56:446][  0]LogSlate: BreadcrumbButton
+[2025.10.28-13.15.56:446][  0]LogSlate: Default
+[2025.10.28-13.15.56:446][  0]LogSlate: Icons.Save
+[2025.10.28-13.15.56:446][  0]LogSlate: Icons.Toolbar.Settings
+[2025.10.28-13.15.56:446][  0]LogSlate: ListView
+[2025.10.28-13.15.56:446][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.10.28-13.15.56:446][  0]LogSlate: SoftwareCursor_Grab
+[2025.10.28-13.15.56:446][  0]LogSlate: TableView.DarkRow
+[2025.10.28-13.15.56:446][  0]LogSlate: TableView.Row
+[2025.10.28-13.15.56:446][  0]LogSlate: TreeView
+[2025.10.28-13.15.56:822][  0]SourceControl: Source control is disabled
+[2025.10.28-13.15.56:870][  0]SourceControl: Source control is disabled
+[2025.10.28-13.15.56:870][  0]SourceControl: Source control is disabled
+[2025.10.28-13.15.57:035][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2025.10.28-13.15.57:035][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2025.10.28-13.15.57:035][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.10.28-13.15.57:487][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B5DE42954D54CFF7588FE580790DC5FA | Instance: AC78D2014D62D46F0C06BA9F6C7F0706 (ABHIGYAN-21216).
+[2025.10.28-13.15.57:549][  0]LogPython: Using Python 3.9.7
+[2025.10.28-13.15.58:448][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.10.28-13.15.58:562][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.10.28-13.15.58:669][  0]SourceControl: Source control is disabled
+[2025.10.28-13.15.58:681][  0]SourceControl: Source control is disabled
+[2025.10.28-13.15.58:692][  0]LogUProjectInfo: Found projects:
+[2025.10.28-13.15.58:695][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.10.28-13.15.58:696][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.10.28-13.15.58:697][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.10.28-13.15.58:708][  0]SourceControl: Source control is disabled
+[2025.10.28-13.15.59:467][  0]LogOpenImageDenoise: OIDN starting up
+[2025.10.28-13.15.59:596][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.10.28-13.15.59:645][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.10.28-13.15.59:645][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.10.28-13.15.59:822][  0]LogCollectionManager: Loaded 0 collections in 0.001727 seconds
+[2025.10.28-13.15.59:937][  0]LogFileCache: Scanning file cache for directory 'C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/Collections/' took 0.00s
+[2025.10.28-13.15.59:937][  0]LogFileCache: Scanning file cache for directory 'C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Developers/micro/Collections/' took 0.00s
+[2025.10.28-13.15.59:937][  0]LogFileCache: Scanning file cache for directory 'C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Collections/' took 0.00s
+[2025.10.28-13.16.00:615][  0]LogEngine: Initializing Engine...
+[2025.10.28-13.16.00:634][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.10.28-13.16.00:643][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.10.28-13.16.01:169][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.10.28-13.16.01:170][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.10.28-13.16.01:205][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.28-13.16.01:291][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.10.28-13.16.01:292][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.10.28-13.16.01:340][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.10.28-13.16.01:353][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.10.28-13.16.01:353][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.10.28-13.16.01:354][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.10.28-13.16.01:354][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.10.28-13.16.01:354][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-13.16.01:354][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-13.16.01:354][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-13.16.01:354][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-13.16.01:354][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.28-13.16.01:354][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.28-13.16.01:354][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.28-13.16.01:354][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-13.16.01:355][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-13.16.01:355][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-13.16.01:355][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-13.16.01:374][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-13.16.02:225][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker (2- Realtek(R) Audio)
+[2025.10.28-13.16.02:225][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-13.16.02:241][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-13.16.02:241][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-13.16.02:242][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.10.28-13.16.02:243][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.28-13.16.02:249][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.28-13.16.02:249][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.10.28-13.16.02:249][  0]LogInit: FAudioDevice initialized.
+[2025.10.28-13.16.02:249][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.10.28-13.16.02:250][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.10.28-13.16.02:250][  0]LogInit: Texture streaming: Enabled
+[2025.10.28-13.16.02:311][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2025.10.28-13.16.02:328][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.10.28-13.16.02:389][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.10.28-13.16.02:408][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.10.28-13.16.02:408][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.10.28-13.16.08:388][  0]LogLiveCoding: Display: First instance in process group "UE_HorrorGame_0xc8b369b6", spawning console
+[2025.10.28-13.16.08:388][  0]LogLiveCoding: Display: Waiting for server
+[2025.10.28-13.16.08:388][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.10.28-13.16.08:393][  0]LogInit: Transaction tracking system initialized
+[2025.10.28-13.16.08:467][  0]BlueprintLog: New page: Editor Load
+[2025.10.28-13.16.08:698][  0]LocalizationService: Localization service is disabled
+[2025.10.28-13.16.08:757][  0]TimingProfiler: Initialize
+[2025.10.28-13.16.08:757][  0]TimingProfiler: OnSessionChanged
+[2025.10.28-13.16.08:757][  0]LoadingProfiler: Initialize
+[2025.10.28-13.16.08:757][  0]LoadingProfiler: OnSessionChanged
+[2025.10.28-13.16.08:757][  0]NetworkingProfiler: Initialize
+[2025.10.28-13.16.08:757][  0]NetworkingProfiler: OnSessionChanged
+[2025.10.28-13.16.08:757][  0]MemoryProfiler: Initialize
+[2025.10.28-13.16.08:757][  0]MemoryProfiler: OnSessionChanged
+[2025.10.28-13.16.09:820][  0]LogFileCache: Scanning file cache for directory 'C:/Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/' took 0.00s
+[2025.10.28-13.16.09:820][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.10.28-13.16.09:938][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.10.28-13.16.09:945][  0]SourceControl: Source control is disabled
+[2025.10.28-13.16.09:945][  0]LogUnrealEdMisc: Loading editor; pre map load, took 26.791
+[2025.10.28-13.16.09:945][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.10.28-13.16.09:945][  0]LightingResults: New page: Lighting Build
+[2025.10.28-13.16.09:952][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.16.09:952][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.16.09:954][  0]MapCheck: New page: Map Check
+[2025.10.28-13.16.09:954][  0]LightingResults: New page: Lighting Build
+[2025.10.28-13.16.09:966][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-13.16.09:971][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.28-13.16.10:010][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2025.10.28-13.16.10:016][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.28-13.16.10:017][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2025.10.28-13.16.10:018][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.28-13.16.10:018][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2025.10.28-13.16.10:389][  0]LogWorldPartition: Display: WorldPartition initialize took 372 ms
+[2025.10.28-13.16.10:697][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.28-13.16.10:710][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.28-13.16.10:711][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.28-13.16.10:722][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10.921ms to complete.
+[2025.10.28-13.16.10:722][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.777
+[2025.10.28-13.16.10:739][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.585
+[2025.10.28-13.16.10:739][  0]LogShaderCompilers: Display: ================================================
+[2025.10.28-13.16.10:739][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-13.16.10:739][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.10.28-13.16.10:739][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.10.28-13.16.10:740][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2025.10.28-13.16.10:740][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-13.16.10:740][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.10.28-13.16.10:740][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.10.28-13.16.10:740][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.10.28-13.16.10:740][  0]LogShaderCompilers: Display: ================================================
+[2025.10.28-13.16.11:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-13.16.11:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-13.16.11:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-13.16.11:082][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-13.16.11:612][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:613][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:614][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:614][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:618][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:618][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:620][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:620][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:621][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:623][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:625][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:625][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:627][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:627][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:628][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:628][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:632][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:632][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:633][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.10.28-13.16.11:633][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.10.28-13.16.11:634][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2025.10.28-13.16.12:185][  0]LogSlate: Took 0.000506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.28-13.16.14:053][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2025.10.28-13.16.15:931][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.28-13.16.15:936][  0]LogSlate: Took 0.000923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.28-13.16.15:973][  0]LogViewport: Scene viewport resized to 1170x894, mode Windowed.
+[2025.10.28-13.16.17:017][  0]LogStall: Startup...
+[2025.10.28-13.16.17:019][  0]LogStall: Startup complete.
+[2025.10.28-13.16.17:083][  0]LogLoad: (Engine Initialization) Total time: 33.93 seconds
+[2025.10.28-13.16.17:083][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.10.28-13.16.17:174][  0]LogAssetRegistry: Asset discovery search completed in 22.3843 seconds
+[2025.10.28-13.16.17:179][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2025.10.28-13.16.17:180][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.10.28-13.16.46:327][638]LogSlate: Took 0.001830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.28-13.16.49:479][678]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.28-13.16.49:496][678]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.28-13.16.49:498][678]LogSlate: Took 0.001252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.28-13.16.49:611][680]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.28-13.16.54:192][775]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.10.28-13.16.54:192][775]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.28-13.17.14:292][950]LogSlate: Window 'Save Level As' being destroyed
+[2025.10.28-13.17.14:790][950]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/Test_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/Test/3/LP/AQL8ZT1CMB6JP33TGL0N05
+/Game/__ExternalObjects__/Maps/Test/3/1L/NK1F7NILRGSMR9Q2929C89
+/Game/__ExternalObjects__/Maps/Test/E/31/B6XXDDZ1650MZWX3DTL774
+/Game/__ExternalObjects__/Maps/Test/8/JE/1OV01R58WWNYLNPQMEE3WN
+/Game/__ExternalObjects__/Maps/Test/5/W5/13EH59JQ1VL3O1N2CHFR32
+/Game/__ExternalObjects__/Maps/Test/E/CF/UQHEJ2UG500UMHWOBO953C
+/Game/__ExternalActors__/Maps/Test/9/00/91AVZ7QGFVB57DWGWDI0AZ
+/Game/__ExternalActors__/Maps/Test/B/1C/HQKQLN3PO95C1P4822WYFJ
+/Game/__ExternalActors__/Maps/Test/5/XX/ZP2T4QB9ZTV27PJP49YAJM
+/Game/__ExternalActors__/Maps/Test/D/D6/E90H6LCHFF9IWH6WNKO9BZ
+/Game/__ExternalActors__/Maps/Test/7/5D/5DU6OSZ2QE0K91D9KOBLKM
+/Game/__ExternalActors__/Maps/Test/1/OH/3TPEUCRJQNA6PVNSO5E01D
+/Game/__ExternalActors__/Maps/Test/A/4U/C57843BSQDA9UDHNPADHD3
+/Game/__ExternalActors__/Maps/Test/4/XK/ZMZ7FN6XTU0066H73LQ4DM
+/Game/__ExternalActors__/Maps/Test/B/Y1/4C115GRM2C2509H34V1TEU
+/Game/__ExternalActors__/Maps/Test/A/YE/Q0750NIBSB72S4D01TU5RI
+/Game/__ExternalActors__/Maps/Test/8/33/ASNHVAIR4E96199I1I29M6
+/Game/__ExternalActors__/Maps/Test/7/KW/E4HQ5DT0RM5BCA2D80XP1I
+/Game/__ExternalActors__/Maps/Test/C/1D/32ET4OGUNJ6KVK8NJ49M20
+/Game/__ExternalActors__/Maps/Test/6/FB/PXAEVA1YAO5FDIFI3TFO0V
+/Game/__ExternalActors__/Maps/Test/2/I0/4WN35KHT05S5ZVK9TBV5HJ
+/Game/__ExternalActors__/Maps/Test/8/QL/5U4HERS4X1VJOR5U8IYRL0
+/Game/__ExternalActors__/Maps/Test/6/F4/X0LZZ80YH3UZRVJ0WS4PYN
+/Game/__ExternalActors__/Maps/Test/F/06/DM2LIW67DJ17HAJB7CH9US
+/Game/__ExternalActors__/Maps/Test/9/1T/S1E5RREK1E32BY2KU71J5A
+/Game/__ExternalActors__/Maps/Test/5/GC/HT8JYG2O3FSOBGXG9BAG50
+/Game/__ExternalActors__/Maps/Test/3/0I/W04186ET11WR24S175IODA
+/Game/__ExternalActors__/Maps/Test/0/08/XKKUK9KQQNSYVWVWO2625N
+/Game/__ExternalActors__/Maps/Test/9/BC/7L1Q5XMRDNYHWQ93UV14C5
+/Game/__ExternalActors__/Maps/Test/7/56/O11H266Z29ZBWNXJPQ14VI
+/Game/__ExternalActors__/Maps/Test/E/SM/RTBNG21ODS7EWHSZ2W6CR5
+/Game/__ExternalActors__/Maps/Test/A/MQ/610BEU7JHWHPEG7LVYXTLU
+/Game/__ExternalActors__/Maps/Test/8/W2/EQMUNDBMUQQ9AIDNHMNXV3
+/Game/__ExternalActors__/Maps/Test/3/KR/3ZNCTL3N9K1R5SEZIF5CUR
+/Game/__ExternalActors__/Maps/Test/7/K8/3TH2H7AXSOZH652Q7LTZO6
+/Game/__ExternalActors__/Maps/Test/4/YD/6D28R9TB23OHHYM3JA0X2P
+/Game/__ExternalActors__/Maps/Test/9/J0/WN5ZFWU6EHM3LBO7LS862J
+/Game/__ExternalActors__/Maps/Test/6/QD/0D36HE2UX45I5O89Y4Y2AV
+/Game/__ExternalActors__/Maps/Test/7/8K/SAID6RJ7WU0HIPUKXJPG58
+/Game/__ExternalActors__/Maps/Test/D/V4/KQJZE5SA4C5JOPH6HDP9ME
+/Game/__ExternalActors__/Maps/Test/A/17/6JCHEBXSQFCSMSINYZUER6
+/Game/__ExternalActors__/Maps/Test/C/71/QX1B2CMFFSER14M4L230XX
+/Game/__ExternalActors__/Maps/Test/C/UU/P9HYKZB7ZLN8CXRTQZA2RD
+/Game/__ExternalActors__/Maps/Test/3/53/NLQOUX93BH5LO8827LC3Z0
+/Game/__ExternalActors__/Maps/Test/5/CW/WJ547Y9RBKUAYVFHTMYK8S
+/Game/__ExternalActors__/Maps/Test/C/SJ/PW6J45NDL1LSAK5DJMNPPR
+/Game/__ExternalActors__/Maps/Test/6/IZ/81YK93M8K9VFIVNKUPJ0VT
+/Game/__ExternalActors__/Maps/Test/C/18/1Z87QAI35OZU9NVXT1RLIK
+/Game/__ExternalActors__/Maps/Test/3/J0/R2WT7FNRDMRP4XA92OFW1T
+/Game/__ExternalActors__/Maps/Test/7/Q5/ADFM9LQ8LDLKW72X8MQONO
+/Game/__ExternalActors__/Maps/Test/7/9K/62IUE3E0G2LY2KT6QBH0FT
+/Game/__ExternalActors__/Maps/Test/3/VB/N99LJRAYZZ9FLHNZJ691QW
+/Game/__ExternalActors__/Maps/Test/2/SE/HSRAEHGPMCFQ6TYG8Q9JJJ
+/Game/__ExternalActors__/Maps/Test/8/K4/KYPEF1CA2JL9P3EHCDYY5H
+/Game/__ExternalActors__/Maps/Test/D/QC/LE2DTUGIIN7AE95P1SKT82
+/Game/__ExternalActors__/Maps/Test/3/V8/ZXIMVHIV2IU0Y60LFBJP6D
+/Game/__ExternalActors__/Maps/Test/6/FV/WYKK6H3S6O0H5GPHWLID18
+/Game/__ExternalActors__/Maps/Test/4/O6/RXD9P562IIEB59OE0XGAR5
+/Game/__ExternalActors__/Maps/Test/0/AB/WQRWJMMD4YBK2ST95HRMBV
+/Game/__ExternalActors__/Maps/Test/5/AG/BDWWPQOD9MXMPCY437UBDD
+/Game/__ExternalActors__/Maps/Test/1/CN/7U4VIK8P30CX4XFMMMRH12
+/Game/__ExternalActors__/Maps/Test/3/H9/EG2QOVC3WDM498ZGZ04K0K
+/Game/__ExternalActors__/Maps/Test/B/8U/K3VICQMUNIJT5JIUYSE557
+/Game/__ExternalActors__/Maps/Test/1/GT/1D4MN9EQMD12MPBF19JN7I
+/Game/__ExternalActors__/Maps/Test/F/4Y/F70WF995RUPYKWSZTUEKYZ
+/Game/__ExternalActors__/Maps/Test/A/2I/5FXPO6K473NXG3B23S7IU9
+/Game/__ExternalActors__/Maps/Test/5/YM/EMQJZN228UD9VGUGKGX57U
+/Game/__ExternalActors__/Maps/Test/B/GN/6TORMH28MBZXBY9CVENFDP
+/Game/__ExternalActors__/Maps/Test/B/1A/VX0NCJP2WM5WO41XCFZ0OS
+/Game/__ExternalActors__/Maps/Test/7/TS/6EU5TFSHQIXJNCN6I0VR65
+/Game/__ExternalActors__/Maps/Test/2/GR/P1JP5Z8QV57BU6OBCENNX5
+/Game/__ExternalActors__/Maps/Test/6/2J/S037ADD9A2W6XZW79M0EYA
+/Game/__ExternalActors__/Maps/Test/6/5R/WB3X9TSM4I15B3ED02MAI2
+/Game/__ExternalActors__/Maps/Test/B/MV/K9JGHJQ82UP4T0KD2F8AMU
+/Game/__ExternalActors__/Maps/Test/1/OW/WKBFV7RKB1WQFCAMS6F5XF
+/Game/__ExternalActors__/Maps/Test/7/AM/LOCABPWEO5K884BQSATFGT
+/Game/__ExternalActors__/Maps/Test/2/SW/W27TKYGHJFR4EPXKE1L887
+/Game/__ExternalActors__/Maps/Test/0/I4/O99A9TKMSKXBESF9A8POQ3
+/Game/__ExternalActors__/Maps/Test/5/DE/6SNDF8M9CHXVXISBQ1RS99
+/Game/__ExternalActors__/Maps/Test/4/0G/YC9G54N7N0EX87TXXFOO1N
+/Game/__ExternalActors__/Maps/Test/4/IA/E6MPKG890N4I58X2SNLJN5
+/Game/__ExternalActors__/Maps/Test/C/98/TZ9XB65P114PHP6TK01AM7
+/Game/__ExternalActors__/Maps/Test/D/N1/C0KB5JSSYE9SWQ43KMSGRL
+/Game/__ExternalActors__/Maps/Test/A/ML/U7JEMS8CO47EE84WYAY5X3
+/Game/__ExternalActors__/Maps/Test/5/MZ/ZKODWF1T4ALFW3HWBIB7NG
+/Game/__ExternalActors__/Maps/Test/8/JZ/N79ZFLKZ3GN92QCGZ1WI8F
+/Game/__ExternalActors__/Maps/Test/2/9T/MPGTT4M2G8ESK8H6SUE768
+/Game/__ExternalActors__/Maps/Test/8/NL/LIZVWALDNAWQXKN273XB24
+/Game/__ExternalActors__/Maps/Test/4/VF/7CRIR6KNS5KC2FUSJIQ5QY
+/Game/__ExternalActors__/Maps/Test/B/IV/LJLMRTDIGMKL41M3MSNN95
+/Game/__ExternalActors__/Maps/Test/E/98/CA5HG0FP75B2OT2XFSD7WA
+/Game/__ExternalActors__/Maps/Test/7/NT/348UGGCE5ZDBLLFUT7O63L
+/Game/__ExternalActors__/Maps/Test/7/JS/RFJ7NKTXQ2T4HVVY78FN4X
+/Game/__ExternalActors__/Maps/Test/5/OA/ZS0IOQ1O25V2XR8EYHRJZY
+/Game/__ExternalActors__/Maps/Test/9/ZN/QU5AHJPLVW2YIL7GS1EVLL
+/Game/__ExternalActors__/Maps/Test/9/3J/93KLCJ5NGD8SYHQX6YBHP5
+/Game/__ExternalActors__/Maps/Test/9/TY/6VT6EE8W7Q41ZRE4FE5TKJ
+/Game/__ExternalActors__/Maps/Test/1/53/5NX6X2P1O16GE3T95AYOLE
+/Game/__ExternalActors__/Maps/Test/B/S0/5K9V10T5N3ITZSA05T8GVE
+[2025.10.28-13.17.14:793][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_HLOD0_Instancing" FILE="../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Maps/Test_HLOD0_Instancing.uasset" SILENT=true
+[2025.10.28-13.17.14:802][950]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008490 seconds
+[2025.10.28-13.17.14:812][950]LogSavePackage: Moving output files for package: /Game/Maps/Test_HLOD0_Instancing
+[2025.10.28-13.17.14:812][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/Test_HLOD0_Instancing930633FE4343FCD1E48F549172441386.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Maps/Test_HLOD0_Instancing.uasset'
+[2025.10.28-13.17.14:836][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/3/LP/AQL8ZT1CMB6JP33TGL0N05
+[2025.10.28-13.17.14:836][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/AQL8ZT1CMB6JP33TGL0N053D00E3ED45F7E4771297BFB62A647510.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/3/LP/AQL8ZT1CMB6JP33TGL0N05.uasset'
+[2025.10.28-13.17.14:862][950]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Test/3/1L/NK1F7NILRGSMR9Q2929C89
+[2025.10.28-13.17.14:862][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/NK1F7NILRGSMR9Q2929C898DF3AE9D4D41C26A5A27609E6B7B121D.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalObjects__/Maps/Test/3/1L/NK1F7NILRGSMR9Q2929C89.uasset'
+[2025.10.28-13.17.14:884][950]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Test/E/31/B6XXDDZ1650MZWX3DTL774
+[2025.10.28-13.17.14:884][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/B6XXDDZ1650MZWX3DTL774FA7E54DE4132A9E48719129021A844FC.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalObjects__/Maps/Test/E/31/B6XXDDZ1650MZWX3DTL774.uasset'
+[2025.10.28-13.17.14:907][950]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Test/8/JE/1OV01R58WWNYLNPQMEE3WN
+[2025.10.28-13.17.14:907][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/1OV01R58WWNYLNPQMEE3WND904BBC84266B482A16F259505BE5851.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalObjects__/Maps/Test/8/JE/1OV01R58WWNYLNPQMEE3WN.uasset'
+[2025.10.28-13.17.14:923][950]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Test/5/W5/13EH59JQ1VL3O1N2CHFR32
+[2025.10.28-13.17.14:923][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/13EH59JQ1VL3O1N2CHFR32AD2923644963DEB70189D7AC85AD842B.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalObjects__/Maps/Test/5/W5/13EH59JQ1VL3O1N2CHFR32.uasset'
+[2025.10.28-13.17.14:938][950]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Test/E/CF/UQHEJ2UG500UMHWOBO953C
+[2025.10.28-13.17.14:939][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/UQHEJ2UG500UMHWOBO953C800BD0D44D7E43D2D15F92B804F25428.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalObjects__/Maps/Test/E/CF/UQHEJ2UG500UMHWOBO953C.uasset'
+[2025.10.28-13.17.14:989][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/9/00/91AVZ7QGFVB57DWGWDI0AZ
+[2025.10.28-13.17.14:989][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/91AVZ7QGFVB57DWGWDI0AZ3FFC6F884D023E14810387B28C80B98D.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/9/00/91AVZ7QGFVB57DWGWDI0AZ.uasset'
+[2025.10.28-13.17.15:013][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/B/1C/HQKQLN3PO95C1P4822WYFJ
+[2025.10.28-13.17.15:013][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/HQKQLN3PO95C1P4822WYFJ6FA0D7494F4EA72079BE3584EC77134B.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/B/1C/HQKQLN3PO95C1P4822WYFJ.uasset'
+[2025.10.28-13.17.15:038][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/5/XX/ZP2T4QB9ZTV27PJP49YAJM
+[2025.10.28-13.17.15:038][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/ZP2T4QB9ZTV27PJP49YAJM18B16F094F18AA266E336B956000D45F.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/5/XX/ZP2T4QB9ZTV27PJP49YAJM.uasset'
+[2025.10.28-13.17.15:068][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/D/D6/E90H6LCHFF9IWH6WNKO9BZ
+[2025.10.28-13.17.15:068][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/E90H6LCHFF9IWH6WNKO9BZE2942D8B4979F4CCB015A9966DAF2852.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/D/D6/E90H6LCHFF9IWH6WNKO9BZ.uasset'
+[2025.10.28-13.17.15:093][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/5D/5DU6OSZ2QE0K91D9KOBLKM
+[2025.10.28-13.17.15:093][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/5DU6OSZ2QE0K91D9KOBLKMA24AA5C547001102FB9A5ABCA9F2CF56.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/5D/5DU6OSZ2QE0K91D9KOBLKM.uasset'
+[2025.10.28-13.17.15:115][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/1/OH/3TPEUCRJQNA6PVNSO5E01D
+[2025.10.28-13.17.15:115][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/3TPEUCRJQNA6PVNSO5E01D72A0D8C34557A8B9E3D0428D6428ABF0.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/1/OH/3TPEUCRJQNA6PVNSO5E01D.uasset'
+[2025.10.28-13.17.15:126][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/A/4U/C57843BSQDA9UDHNPADHD3
+[2025.10.28-13.17.15:126][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/C57843BSQDA9UDHNPADHD395DE4BAF496F2F0BEA5AE0AABD62F78F.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/A/4U/C57843BSQDA9UDHNPADHD3.uasset'
+[2025.10.28-13.17.15:138][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/4/XK/ZMZ7FN6XTU0066H73LQ4DM
+[2025.10.28-13.17.15:138][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/ZMZ7FN6XTU0066H73LQ4DM607394374E8AD5FA30B5DC9294B7A7E3.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/4/XK/ZMZ7FN6XTU0066H73LQ4DM.uasset'
+[2025.10.28-13.17.15:174][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/B/Y1/4C115GRM2C2509H34V1TEU
+[2025.10.28-13.17.15:174][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/4C115GRM2C2509H34V1TEU94D4E5D04C90C65842B9198FE6638051.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/B/Y1/4C115GRM2C2509H34V1TEU.uasset'
+[2025.10.28-13.17.15:258][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/A/YE/Q0750NIBSB72S4D01TU5RI
+[2025.10.28-13.17.15:258][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/Q0750NIBSB72S4D01TU5RI1CCBEE894DC362712F38D5A3E89670BC.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/A/YE/Q0750NIBSB72S4D01TU5RI.uasset'
+[2025.10.28-13.17.15:294][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/8/33/ASNHVAIR4E96199I1I29M6
+[2025.10.28-13.17.15:294][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/ASNHVAIR4E96199I1I29M651F02CB849A7C882402263A304424B52.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/8/33/ASNHVAIR4E96199I1I29M6.uasset'
+[2025.10.28-13.17.15:337][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/KW/E4HQ5DT0RM5BCA2D80XP1I
+[2025.10.28-13.17.15:337][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/E4HQ5DT0RM5BCA2D80XP1IF8C96AEF4FFDC557478967A3974AE4BF.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/KW/E4HQ5DT0RM5BCA2D80XP1I.uasset'
+[2025.10.28-13.17.15:367][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/C/1D/32ET4OGUNJ6KVK8NJ49M20
+[2025.10.28-13.17.15:367][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/32ET4OGUNJ6KVK8NJ49M200BB5418A4652D0F146852B89237EF90A.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/C/1D/32ET4OGUNJ6KVK8NJ49M20.uasset'
+[2025.10.28-13.17.15:401][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/6/FB/PXAEVA1YAO5FDIFI3TFO0V
+[2025.10.28-13.17.15:401][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/PXAEVA1YAO5FDIFI3TFO0VB0F184174721F820C911D9B44B8A511D.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/6/FB/PXAEVA1YAO5FDIFI3TFO0V.uasset'
+[2025.10.28-13.17.15:442][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/2/I0/4WN35KHT05S5ZVK9TBV5HJ
+[2025.10.28-13.17.15:442][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/4WN35KHT05S5ZVK9TBV5HJF648C1D349D36C984FE25C8EFCE7DDF4.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/2/I0/4WN35KHT05S5ZVK9TBV5HJ.uasset'
+[2025.10.28-13.17.15:479][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/8/QL/5U4HERS4X1VJOR5U8IYRL0
+[2025.10.28-13.17.15:480][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/5U4HERS4X1VJOR5U8IYRL03D89E7D54D6EEE695388009469AAFB08.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/8/QL/5U4HERS4X1VJOR5U8IYRL0.uasset'
+[2025.10.28-13.17.15:514][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/6/F4/X0LZZ80YH3UZRVJ0WS4PYN
+[2025.10.28-13.17.15:514][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/X0LZZ80YH3UZRVJ0WS4PYNFDE07A8F4D85C56E51BC99BDCB1C20D3.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/6/F4/X0LZZ80YH3UZRVJ0WS4PYN.uasset'
+[2025.10.28-13.17.15:552][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/F/06/DM2LIW67DJ17HAJB7CH9US
+[2025.10.28-13.17.15:552][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/DM2LIW67DJ17HAJB7CH9US0E965AF34100EFA1E9B45798BAFC6236.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/F/06/DM2LIW67DJ17HAJB7CH9US.uasset'
+[2025.10.28-13.17.15:588][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/9/1T/S1E5RREK1E32BY2KU71J5A
+[2025.10.28-13.17.15:589][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/S1E5RREK1E32BY2KU71J5A191CEF3D47565818706AA28CD9B91263.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/9/1T/S1E5RREK1E32BY2KU71J5A.uasset'
+[2025.10.28-13.17.15:623][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/5/GC/HT8JYG2O3FSOBGXG9BAG50
+[2025.10.28-13.17.15:624][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/HT8JYG2O3FSOBGXG9BAG504A31FFFF4808E1487A0E1A90FA7D3139.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/5/GC/HT8JYG2O3FSOBGXG9BAG50.uasset'
+[2025.10.28-13.17.15:658][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/3/0I/W04186ET11WR24S175IODA
+[2025.10.28-13.17.15:659][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/W04186ET11WR24S175IODA5126B5FA43E2F89CC6C1E6AFC60FA6EE.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/3/0I/W04186ET11WR24S175IODA.uasset'
+[2025.10.28-13.17.15:692][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/0/08/XKKUK9KQQNSYVWVWO2625N
+[2025.10.28-13.17.15:692][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/XKKUK9KQQNSYVWVWO2625NCD481B2446C6D8E9915715AFD1E5C302.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/0/08/XKKUK9KQQNSYVWVWO2625N.uasset'
+[2025.10.28-13.17.15:722][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/9/BC/7L1Q5XMRDNYHWQ93UV14C5
+[2025.10.28-13.17.15:722][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/7L1Q5XMRDNYHWQ93UV14C5019740B340F5E992E739F08DDB2E8614.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/9/BC/7L1Q5XMRDNYHWQ93UV14C5.uasset'
+[2025.10.28-13.17.15:752][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/56/O11H266Z29ZBWNXJPQ14VI
+[2025.10.28-13.17.15:752][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/O11H266Z29ZBWNXJPQ14VIE5E43B7F431FEF8FD46F4EA4E5E428F6.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/56/O11H266Z29ZBWNXJPQ14VI.uasset'
+[2025.10.28-13.17.15:776][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/E/SM/RTBNG21ODS7EWHSZ2W6CR5
+[2025.10.28-13.17.15:776][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/RTBNG21ODS7EWHSZ2W6CR5D7DE3ECD4976C009F02D8488A3993AEA.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/E/SM/RTBNG21ODS7EWHSZ2W6CR5.uasset'
+[2025.10.28-13.17.15:808][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/A/MQ/610BEU7JHWHPEG7LVYXTLU
+[2025.10.28-13.17.15:808][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/610BEU7JHWHPEG7LVYXTLU1B60013F42C78751DE5DD5803F533437.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/A/MQ/610BEU7JHWHPEG7LVYXTLU.uasset'
+[2025.10.28-13.17.15:842][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/8/W2/EQMUNDBMUQQ9AIDNHMNXV3
+[2025.10.28-13.17.15:842][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/EQMUNDBMUQQ9AIDNHMNXV3955D54954A2420E30484F5B8CC6A3AC7.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/8/W2/EQMUNDBMUQQ9AIDNHMNXV3.uasset'
+[2025.10.28-13.17.15:872][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/3/KR/3ZNCTL3N9K1R5SEZIF5CUR
+[2025.10.28-13.17.15:873][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/3ZNCTL3N9K1R5SEZIF5CURED6636DB416261422A1F778E700BBEB7.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/3/KR/3ZNCTL3N9K1R5SEZIF5CUR.uasset'
+[2025.10.28-13.17.15:902][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/K8/3TH2H7AXSOZH652Q7LTZO6
+[2025.10.28-13.17.15:903][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/3TH2H7AXSOZH652Q7LTZO693FD760846A6EAF5C92782ADD79F4618.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/K8/3TH2H7AXSOZH652Q7LTZO6.uasset'
+[2025.10.28-13.17.15:933][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/4/YD/6D28R9TB23OHHYM3JA0X2P
+[2025.10.28-13.17.15:933][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/6D28R9TB23OHHYM3JA0X2PEF6A46AA4601DB1D458810864A63CF76.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/4/YD/6D28R9TB23OHHYM3JA0X2P.uasset'
+[2025.10.28-13.17.15:968][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/9/J0/WN5ZFWU6EHM3LBO7LS862J
+[2025.10.28-13.17.15:968][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/WN5ZFWU6EHM3LBO7LS862J5AAA0A4443CD5D51D7478CA17297F0D1.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/9/J0/WN5ZFWU6EHM3LBO7LS862J.uasset'
+[2025.10.28-13.17.15:999][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/6/QD/0D36HE2UX45I5O89Y4Y2AV
+[2025.10.28-13.17.15:999][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/0D36HE2UX45I5O89Y4Y2AVC9087C1F43CF8D11E031CBA992B19920.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/6/QD/0D36HE2UX45I5O89Y4Y2AV.uasset'
+[2025.10.28-13.17.16:063][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/8K/SAID6RJ7WU0HIPUKXJPG58
+[2025.10.28-13.17.16:063][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/SAID6RJ7WU0HIPUKXJPG58ACEC290E4FC3151C93203B96BCC79DBF.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/8K/SAID6RJ7WU0HIPUKXJPG58.uasset'
+[2025.10.28-13.17.16:090][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/D/V4/KQJZE5SA4C5JOPH6HDP9ME
+[2025.10.28-13.17.16:091][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/KQJZE5SA4C5JOPH6HDP9MED36CBD764D1819EA5D244CB572A139C3.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/D/V4/KQJZE5SA4C5JOPH6HDP9ME.uasset'
+[2025.10.28-13.17.16:120][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/A/17/6JCHEBXSQFCSMSINYZUER6
+[2025.10.28-13.17.16:120][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/6JCHEBXSQFCSMSINYZUER61940F25E4469E8A20D9D669D5ECE03A5.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/A/17/6JCHEBXSQFCSMSINYZUER6.uasset'
+[2025.10.28-13.17.16:151][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/C/71/QX1B2CMFFSER14M4L230XX
+[2025.10.28-13.17.16:151][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/QX1B2CMFFSER14M4L230XXDEF073614A0FECA91A19FAB806341C33.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/C/71/QX1B2CMFFSER14M4L230XX.uasset'
+[2025.10.28-13.17.16:185][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/C/UU/P9HYKZB7ZLN8CXRTQZA2RD
+[2025.10.28-13.17.16:185][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/P9HYKZB7ZLN8CXRTQZA2RD14C0ACD740BAA046031A6ABA2A60E7B7.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/C/UU/P9HYKZB7ZLN8CXRTQZA2RD.uasset'
+[2025.10.28-13.17.16:210][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/3/53/NLQOUX93BH5LO8827LC3Z0
+[2025.10.28-13.17.16:210][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/NLQOUX93BH5LO8827LC3Z0CA9B6443492C327C3ADD61BA3D6C0719.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/3/53/NLQOUX93BH5LO8827LC3Z0.uasset'
+[2025.10.28-13.17.16:235][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/5/CW/WJ547Y9RBKUAYVFHTMYK8S
+[2025.10.28-13.17.16:235][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/WJ547Y9RBKUAYVFHTMYK8SD7E36F524487113B4ED2C1BF41E839CE.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/5/CW/WJ547Y9RBKUAYVFHTMYK8S.uasset'
+[2025.10.28-13.17.16:263][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/C/SJ/PW6J45NDL1LSAK5DJMNPPR
+[2025.10.28-13.17.16:263][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/PW6J45NDL1LSAK5DJMNPPR2E99B42C4AC6F9BE10F377969290152E.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/C/SJ/PW6J45NDL1LSAK5DJMNPPR.uasset'
+[2025.10.28-13.17.16:298][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/6/IZ/81YK93M8K9VFIVNKUPJ0VT
+[2025.10.28-13.17.16:299][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/81YK93M8K9VFIVNKUPJ0VT6B0FE44A43AD9D21C21343832B185888.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/6/IZ/81YK93M8K9VFIVNKUPJ0VT.uasset'
+[2025.10.28-13.17.16:326][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/C/18/1Z87QAI35OZU9NVXT1RLIK
+[2025.10.28-13.17.16:326][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/1Z87QAI35OZU9NVXT1RLIK261B466D481A563078E38D8BF45C2074.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/C/18/1Z87QAI35OZU9NVXT1RLIK.uasset'
+[2025.10.28-13.17.16:357][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/3/J0/R2WT7FNRDMRP4XA92OFW1T
+[2025.10.28-13.17.16:358][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/R2WT7FNRDMRP4XA92OFW1TE53BE0E340FDB2A8911D21A882E1E286.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/3/J0/R2WT7FNRDMRP4XA92OFW1T.uasset'
+[2025.10.28-13.17.16:389][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/Q5/ADFM9LQ8LDLKW72X8MQONO
+[2025.10.28-13.17.16:389][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/ADFM9LQ8LDLKW72X8MQONOF37572454C5F73BF803FCEA09E116A52.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/Q5/ADFM9LQ8LDLKW72X8MQONO.uasset'
+[2025.10.28-13.17.16:418][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/9K/62IUE3E0G2LY2KT6QBH0FT
+[2025.10.28-13.17.16:419][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/62IUE3E0G2LY2KT6QBH0FT8B815A8149ABC3ACC418A3B34B681502.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/9K/62IUE3E0G2LY2KT6QBH0FT.uasset'
+[2025.10.28-13.17.16:446][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/3/VB/N99LJRAYZZ9FLHNZJ691QW
+[2025.10.28-13.17.16:447][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/N99LJRAYZZ9FLHNZJ691QW950B3EA044597037723F86830CC42A9A.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/3/VB/N99LJRAYZZ9FLHNZJ691QW.uasset'
+[2025.10.28-13.17.16:478][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/2/SE/HSRAEHGPMCFQ6TYG8Q9JJJ
+[2025.10.28-13.17.16:478][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/HSRAEHGPMCFQ6TYG8Q9JJJ4F3122D34A051931F0942697417FB963.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/2/SE/HSRAEHGPMCFQ6TYG8Q9JJJ.uasset'
+[2025.10.28-13.17.16:513][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/8/K4/KYPEF1CA2JL9P3EHCDYY5H
+[2025.10.28-13.17.16:513][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/KYPEF1CA2JL9P3EHCDYY5HA02D35A84D4E0134C4B3DD89EA88547E.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/8/K4/KYPEF1CA2JL9P3EHCDYY5H.uasset'
+[2025.10.28-13.17.16:542][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/D/QC/LE2DTUGIIN7AE95P1SKT82
+[2025.10.28-13.17.16:542][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/LE2DTUGIIN7AE95P1SKT8276A7451D485892ED2E78B6847E59B9C3.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/D/QC/LE2DTUGIIN7AE95P1SKT82.uasset'
+[2025.10.28-13.17.16:573][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/3/V8/ZXIMVHIV2IU0Y60LFBJP6D
+[2025.10.28-13.17.16:574][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/ZXIMVHIV2IU0Y60LFBJP6DE449004C49F662FF55341CACC5B40FE6.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/3/V8/ZXIMVHIV2IU0Y60LFBJP6D.uasset'
+[2025.10.28-13.17.16:601][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/6/FV/WYKK6H3S6O0H5GPHWLID18
+[2025.10.28-13.17.16:601][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/WYKK6H3S6O0H5GPHWLID180A24D47548483644BE8BCAA88D17AD4C.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/6/FV/WYKK6H3S6O0H5GPHWLID18.uasset'
+[2025.10.28-13.17.16:628][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/4/O6/RXD9P562IIEB59OE0XGAR5
+[2025.10.28-13.17.16:628][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/RXD9P562IIEB59OE0XGAR5CD583B2C43F56DC27EE3F5ACBE8AFC12.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/4/O6/RXD9P562IIEB59OE0XGAR5.uasset'
+[2025.10.28-13.17.16:658][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/0/AB/WQRWJMMD4YBK2ST95HRMBV
+[2025.10.28-13.17.16:659][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/WQRWJMMD4YBK2ST95HRMBVBB29CAF44F3C5643095EC0A50AFEA16D.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/0/AB/WQRWJMMD4YBK2ST95HRMBV.uasset'
+[2025.10.28-13.17.16:684][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/5/AG/BDWWPQOD9MXMPCY437UBDD
+[2025.10.28-13.17.16:684][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/BDWWPQOD9MXMPCY437UBDD5F04B5BB403B97CFAC67B1B6B5EE30F7.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/5/AG/BDWWPQOD9MXMPCY437UBDD.uasset'
+[2025.10.28-13.17.16:713][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/1/CN/7U4VIK8P30CX4XFMMMRH12
+[2025.10.28-13.17.16:713][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/7U4VIK8P30CX4XFMMMRH125F4DD2D14B92A43CB36800906D4840E8.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/1/CN/7U4VIK8P30CX4XFMMMRH12.uasset'
+[2025.10.28-13.17.16:744][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/3/H9/EG2QOVC3WDM498ZGZ04K0K
+[2025.10.28-13.17.16:746][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/EG2QOVC3WDM498ZGZ04K0KF648C13149E4075D4171118668934C4B.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/3/H9/EG2QOVC3WDM498ZGZ04K0K.uasset'
+[2025.10.28-13.17.16:769][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/B/8U/K3VICQMUNIJT5JIUYSE557
+[2025.10.28-13.17.16:769][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/K3VICQMUNIJT5JIUYSE557E3ACA51B4B3B5153D7FB7D93FED501BD.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/B/8U/K3VICQMUNIJT5JIUYSE557.uasset'
+[2025.10.28-13.17.16:792][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/1/GT/1D4MN9EQMD12MPBF19JN7I
+[2025.10.28-13.17.16:793][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/1D4MN9EQMD12MPBF19JN7I69E066DE46F59D33208D808E5E07C8F1.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/1/GT/1D4MN9EQMD12MPBF19JN7I.uasset'
+[2025.10.28-13.17.16:851][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/F/4Y/F70WF995RUPYKWSZTUEKYZ
+[2025.10.28-13.17.16:851][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/F70WF995RUPYKWSZTUEKYZ69810D254450362BC4794E9ECB6C56CE.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/F/4Y/F70WF995RUPYKWSZTUEKYZ.uasset'
+[2025.10.28-13.17.16:879][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/A/2I/5FXPO6K473NXG3B23S7IU9
+[2025.10.28-13.17.16:879][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/5FXPO6K473NXG3B23S7IU9F9EA004E465942C750FFFE83A89FFDE7.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/A/2I/5FXPO6K473NXG3B23S7IU9.uasset'
+[2025.10.28-13.17.16:904][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/5/YM/EMQJZN228UD9VGUGKGX57U
+[2025.10.28-13.17.16:904][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/EMQJZN228UD9VGUGKGX57U767D3C7F48281FE98E4A64A3C498249D.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/5/YM/EMQJZN228UD9VGUGKGX57U.uasset'
+[2025.10.28-13.17.16:932][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/B/GN/6TORMH28MBZXBY9CVENFDP
+[2025.10.28-13.17.16:933][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/6TORMH28MBZXBY9CVENFDPA09FC7C649092975A2D176B7C2D452BD.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/B/GN/6TORMH28MBZXBY9CVENFDP.uasset'
+[2025.10.28-13.17.16:963][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/B/1A/VX0NCJP2WM5WO41XCFZ0OS
+[2025.10.28-13.17.16:965][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/VX0NCJP2WM5WO41XCFZ0OSE180ADA94B00DEA8907582BCF002773D.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/B/1A/VX0NCJP2WM5WO41XCFZ0OS.uasset'
+[2025.10.28-13.17.16:987][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/TS/6EU5TFSHQIXJNCN6I0VR65
+[2025.10.28-13.17.16:988][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/6EU5TFSHQIXJNCN6I0VR65D3613E0B4404593941A14DA214851DA0.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/TS/6EU5TFSHQIXJNCN6I0VR65.uasset'
+[2025.10.28-13.17.17:014][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/2/GR/P1JP5Z8QV57BU6OBCENNX5
+[2025.10.28-13.17.17:014][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/P1JP5Z8QV57BU6OBCENNX53CAA84FF499F0F92ED840C80817807AB.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/2/GR/P1JP5Z8QV57BU6OBCENNX5.uasset'
+[2025.10.28-13.17.17:036][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/6/2J/S037ADD9A2W6XZW79M0EYA
+[2025.10.28-13.17.17:036][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/S037ADD9A2W6XZW79M0EYAC3E52C454085012AE7EE9CB4D3D28CFA.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/6/2J/S037ADD9A2W6XZW79M0EYA.uasset'
+[2025.10.28-13.17.17:070][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/6/5R/WB3X9TSM4I15B3ED02MAI2
+[2025.10.28-13.17.17:070][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/WB3X9TSM4I15B3ED02MAI2662F70B1421D49047ABD60BA6A7337C2.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/6/5R/WB3X9TSM4I15B3ED02MAI2.uasset'
+[2025.10.28-13.17.17:096][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/B/MV/K9JGHJQ82UP4T0KD2F8AMU
+[2025.10.28-13.17.17:096][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/K9JGHJQ82UP4T0KD2F8AMU9BBA7260479D304E80F2808F7AE95A70.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/B/MV/K9JGHJQ82UP4T0KD2F8AMU.uasset'
+[2025.10.28-13.17.17:123][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/1/OW/WKBFV7RKB1WQFCAMS6F5XF
+[2025.10.28-13.17.17:123][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/WKBFV7RKB1WQFCAMS6F5XFA452311B43210CF632EE47A8C2F96F3B.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/1/OW/WKBFV7RKB1WQFCAMS6F5XF.uasset'
+[2025.10.28-13.17.17:155][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/AM/LOCABPWEO5K884BQSATFGT
+[2025.10.28-13.17.17:155][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/LOCABPWEO5K884BQSATFGT86AE5312408120060A4F72961778FC33.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/AM/LOCABPWEO5K884BQSATFGT.uasset'
+[2025.10.28-13.17.17:217][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/2/SW/W27TKYGHJFR4EPXKE1L887
+[2025.10.28-13.17.17:218][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/W27TKYGHJFR4EPXKE1L8877D3A24E54DAC2F34957E9DB37E2FFE01.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/2/SW/W27TKYGHJFR4EPXKE1L887.uasset'
+[2025.10.28-13.17.17:241][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/0/I4/O99A9TKMSKXBESF9A8POQ3
+[2025.10.28-13.17.17:242][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/O99A9TKMSKXBESF9A8POQ38CB61AA047BBE5FA2F41E7A9ACCFEC5E.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/0/I4/O99A9TKMSKXBESF9A8POQ3.uasset'
+[2025.10.28-13.17.17:557][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/5/DE/6SNDF8M9CHXVXISBQ1RS99
+[2025.10.28-13.17.17:557][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/6SNDF8M9CHXVXISBQ1RS99108E7B814F659B7EC1E1E783206A9AC6.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/5/DE/6SNDF8M9CHXVXISBQ1RS99.uasset'
+[2025.10.28-13.17.18:107][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/4/0G/YC9G54N7N0EX87TXXFOO1N
+[2025.10.28-13.17.18:107][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/YC9G54N7N0EX87TXXFOO1ND3C2D7DC4AF34D725003839BB1D506AF.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/4/0G/YC9G54N7N0EX87TXXFOO1N.uasset'
+[2025.10.28-13.17.19:633][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/4/IA/E6MPKG890N4I58X2SNLJN5
+[2025.10.28-13.17.19:635][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/E6MPKG890N4I58X2SNLJN5D884C780407B5F9890D49BA72F746387.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/4/IA/E6MPKG890N4I58X2SNLJN5.uasset'
+[2025.10.28-13.17.19:891][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/C/98/TZ9XB65P114PHP6TK01AM7
+[2025.10.28-13.17.19:891][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/TZ9XB65P114PHP6TK01AM7D3A6875649901CAA4226629281C70E49.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/C/98/TZ9XB65P114PHP6TK01AM7.uasset'
+[2025.10.28-13.17.20:141][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/D/N1/C0KB5JSSYE9SWQ43KMSGRL
+[2025.10.28-13.17.20:141][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/C0KB5JSSYE9SWQ43KMSGRLDAF49AD5409F9B180661CCAB667EAE20.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/D/N1/C0KB5JSSYE9SWQ43KMSGRL.uasset'
+[2025.10.28-13.17.20:434][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/A/ML/U7JEMS8CO47EE84WYAY5X3
+[2025.10.28-13.17.20:434][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/U7JEMS8CO47EE84WYAY5X3CCBA30E844C800522B7BC59AC4E46FE6.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/A/ML/U7JEMS8CO47EE84WYAY5X3.uasset'
+[2025.10.28-13.17.21:644][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/5/MZ/ZKODWF1T4ALFW3HWBIB7NG
+[2025.10.28-13.17.21:644][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/ZKODWF1T4ALFW3HWBIB7NG4282C98B4A92498D40B7FE8A2EAB56C2.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/5/MZ/ZKODWF1T4ALFW3HWBIB7NG.uasset'
+[2025.10.28-13.17.22:118][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/8/JZ/N79ZFLKZ3GN92QCGZ1WI8F
+[2025.10.28-13.17.22:118][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/N79ZFLKZ3GN92QCGZ1WI8F358A7B8243ACCEF621925DAE7A198AB7.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/8/JZ/N79ZFLKZ3GN92QCGZ1WI8F.uasset'
+[2025.10.28-13.17.22:370][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/2/9T/MPGTT4M2G8ESK8H6SUE768
+[2025.10.28-13.17.22:370][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/MPGTT4M2G8ESK8H6SUE768A7B5C3964DFAD90366A07EA896144174.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/2/9T/MPGTT4M2G8ESK8H6SUE768.uasset'
+[2025.10.28-13.17.23:182][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/8/NL/LIZVWALDNAWQXKN273XB24
+[2025.10.28-13.17.23:182][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/LIZVWALDNAWQXKN273XB248559F6F142C0691AAFB21E951874A684.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/8/NL/LIZVWALDNAWQXKN273XB24.uasset'
+[2025.10.28-13.17.23:436][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/4/VF/7CRIR6KNS5KC2FUSJIQ5QY
+[2025.10.28-13.17.23:437][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/7CRIR6KNS5KC2FUSJIQ5QYAE09B94B4A99D9E5AE4DBFA7BC50D1BE.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/4/VF/7CRIR6KNS5KC2FUSJIQ5QY.uasset'
+[2025.10.28-13.17.23:946][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/B/IV/LJLMRTDIGMKL41M3MSNN95
+[2025.10.28-13.17.23:946][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/LJLMRTDIGMKL41M3MSNN95C460527845FC3D6EC40B008353EA7601.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/B/IV/LJLMRTDIGMKL41M3MSNN95.uasset'
+[2025.10.28-13.17.25:555][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/E/98/CA5HG0FP75B2OT2XFSD7WA
+[2025.10.28-13.17.25:555][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/CA5HG0FP75B2OT2XFSD7WA29D7B7A3406CAB679B3A79ACC8266361.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/E/98/CA5HG0FP75B2OT2XFSD7WA.uasset'
+[2025.10.28-13.17.25:841][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/NT/348UGGCE5ZDBLLFUT7O63L
+[2025.10.28-13.17.25:842][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/348UGGCE5ZDBLLFUT7O63LB57D271A46131B375E0C77A82559DE00.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/NT/348UGGCE5ZDBLLFUT7O63L.uasset'
+[2025.10.28-13.17.26:381][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/7/JS/RFJ7NKTXQ2T4HVVY78FN4X
+[2025.10.28-13.17.26:382][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/RFJ7NKTXQ2T4HVVY78FN4X7268A1A14AB00A288757E1B4B68CE46E.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/7/JS/RFJ7NKTXQ2T4HVVY78FN4X.uasset'
+[2025.10.28-13.17.26:633][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/5/OA/ZS0IOQ1O25V2XR8EYHRJZY
+[2025.10.28-13.17.26:635][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/ZS0IOQ1O25V2XR8EYHRJZYD630C91644037E54AE42C59713679378.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/5/OA/ZS0IOQ1O25V2XR8EYHRJZY.uasset'
+[2025.10.28-13.17.27:184][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/9/ZN/QU5AHJPLVW2YIL7GS1EVLL
+[2025.10.28-13.17.27:184][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/QU5AHJPLVW2YIL7GS1EVLLB175266F48EE2A7F0DB1AB8AC17C8390.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/9/ZN/QU5AHJPLVW2YIL7GS1EVLL.uasset'
+[2025.10.28-13.17.27:456][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/9/3J/93KLCJ5NGD8SYHQX6YBHP5
+[2025.10.28-13.17.27:456][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/93KLCJ5NGD8SYHQX6YBHP5F12091514E677F0112248F94BAADD46F.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/9/3J/93KLCJ5NGD8SYHQX6YBHP5.uasset'
+[2025.10.28-13.17.27:951][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/9/TY/6VT6EE8W7Q41ZRE4FE5TKJ
+[2025.10.28-13.17.27:951][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/6VT6EE8W7Q41ZRE4FE5TKJA76B112641D32C752AC7259D77F9DDA9.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/9/TY/6VT6EE8W7Q41ZRE4FE5TKJ.uasset'
+[2025.10.28-13.17.28:237][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/1/53/5NX6X2P1O16GE3T95AYOLE
+[2025.10.28-13.17.28:237][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/5NX6X2P1O16GE3T95AYOLE689F438A4F564BE0DE21948931A83ED9.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/1/53/5NX6X2P1O16GE3T95AYOLE.uasset'
+[2025.10.28-13.17.30:126][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test/B/S0/5K9V10T5N3ITZSA05T8GVE
+[2025.10.28-13.17.30:127][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/5K9V10T5N3ITZSA05T8GVE3688D73E4099889DB6D2AA9AEC970D0E.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/__ExternalActors__/Maps/Test/B/S0/5K9V10T5N3ITZSA05T8GVE.uasset'
+[2025.10.28-13.17.30:155][950]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/Test_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/Test/3/LP/AQL8ZT1CMB6JP33TGL0N05
+/Game/__ExternalObjects__/Maps/Test/3/1L/NK1F7NILRGSMR9Q2929C89
+/Game/__ExternalObjects__/Maps/Test/E/31/B6XXDDZ1650MZWX3DTL774
+/Game/__ExternalObjects__/Maps/Test/8/JE/1OV01R58WWNYLNPQMEE3WN
+/Game/__ExternalObjects__/Maps/Test/5/W5/13EH59JQ1VL3O1N2CHFR32
+/Game/__ExternalObjects__/Maps/Test/E/CF/UQHEJ2UG500UMHWOBO953C
+/Game/__ExternalActors__/Maps/Test/9/00/91AVZ7QGFVB57DWGWDI0AZ
+/Game/__ExternalActors__/Maps/Test/B/1C/HQKQLN3PO95C1P4822WYFJ
+/Game/__ExternalActors__/Maps/Test/5/XX/ZP2T4QB9ZTV27PJP49YAJM
+/Game/__ExternalActors__/Maps/Test/D/D6/E90H6LCHFF9IWH6WNKO9BZ
+/Game/__ExternalActors__/Maps/Test/7/5D/5DU6OSZ2QE0K91D9KOBLKM
+/Game/__ExternalActors__/Maps/Test/1/OH/3TPEUCRJQNA6PVNSO5E01D
+/Game/__ExternalActors__/Maps/Test/A/4U/C57843BSQDA9UDHNPADHD3
+/Game/__ExternalActors__/Maps/Test/4/XK/ZMZ7FN6XTU0066H73LQ4DM
+/Game/__ExternalActors__/Maps/Test/B/Y1/4C115GRM2C2509H34V1TEU
+/Game/__ExternalActors__/Maps/Test/A/YE/Q0750NIBSB72S4D01TU5RI
+/Game/__ExternalActors__/Maps/Test/8/33/ASNHVAIR4E96199I1I29M6
+/Game/__ExternalActors__/Maps/Test/7/KW/E4HQ5DT0RM5BCA2D80XP1I
+/Game/__ExternalActors__/Maps/Test/C/1D/32ET4OGUNJ6KVK8NJ49M20
+/Game/__ExternalActors__/Maps/Test/6/FB/PXAEVA1YAO5FDIFI3TFO0V
+/Game/__ExternalActors__/Maps/Test/2/I0/4WN35KHT05S5ZVK9TBV5HJ
+/Game/__ExternalActors__/Maps/Test/8/QL/5U4HERS4X1VJOR5U8IYRL0
+/Game/__ExternalActors__/Maps/Test/6/F4/X0LZZ80YH3UZRVJ0WS4PYN
+/Game/__ExternalActors__/Maps/Test/F/06/DM2LIW67DJ17HAJB7CH9US
+/Game/__ExternalActors__/Maps/Test/9/1T/S1E5RREK1E32BY2KU71J5A
+/Game/__ExternalActors__/Maps/Test/5/GC/HT8JYG2O3FSOBGXG9BAG50
+/Game/__ExternalActors__/Maps/Test/3/0I/W04186ET11WR24S175IODA
+/Game/__ExternalActors__/Maps/Test/0/08/XKKUK9KQQNSYVWVWO2625N
+/Game/__ExternalActors__/Maps/Test/9/BC/7L1Q5XMRDNYHWQ93UV14C5
+/Game/__ExternalActors__/Maps/Test/7/56/O11H266Z29ZBWNXJPQ14VI
+/Game/__ExternalActors__/Maps/Test/E/SM/RTBNG21ODS7EWHSZ2W6CR5
+/Game/__ExternalActors__/Maps/Test/A/MQ/610BEU7JHWHPEG7LVYXTLU
+/Game/__ExternalActors__/Maps/Test/8/W2/EQMUNDBMUQQ9AIDNHMNXV3
+/Game/__ExternalActors__/Maps/Test/3/KR/3ZNCTL3N9K1R5SEZIF5CUR
+/Game/__ExternalActors__/Maps/Test/7/K8/3TH2H7AXSOZH652Q7LTZO6
+/Game/__ExternalActors__/Maps/Test/4/YD/6D28R9TB23OHHYM3JA0X2P
+/Game/__ExternalActors__/Maps/Test/9/J0/WN5ZFWU6EHM3LBO7LS862J
+/Game/__ExternalActors__/Maps/Test/6/QD/0D36HE2UX45I5O89Y4Y2AV
+/Game/__ExternalActors__/Maps/Test/7/8K/SAID6RJ7WU0HIPUKXJPG58
+/Game/__ExternalActors__/Maps/Test/D/V4/KQJZE5SA4C5JOPH6HDP9ME
+/Game/__ExternalActors__/Maps/Test/A/17/6JCHEBXSQFCSMSINYZUER6
+/Game/__ExternalActors__/Maps/Test/C/71/QX1B2CMFFSER14M4L230XX
+/Game/__ExternalActors__/Maps/Test/C/UU/P9HYKZB7ZLN8CXRTQZA2RD
+/Game/__ExternalActors__/Maps/Test/3/53/NLQOUX93BH5LO8827LC3Z0
+/Game/__ExternalActors__/Maps/Test/5/CW/WJ547Y9RBKUAYVFHTMYK8S
+/Game/__ExternalActors__/Maps/Test/C/SJ/PW6J45NDL1LSAK5DJMNPPR
+/Game/__ExternalActors__/Maps/Test/6/IZ/81YK93M8K9VFIVNKUPJ0VT
+/Game/__ExternalActors__/Maps/Test/C/18/1Z87QAI35OZU9NVXT1RLIK
+/Game/__ExternalActors__/Maps/Test/3/J0/R2WT7FNRDMRP4XA92OFW1T
+/Game/__ExternalActors__/Maps/Test/7/Q5/ADFM9LQ8LDLKW72X8MQONO
+/Game/__ExternalActors__/Maps/Test/7/9K/62IUE3E0G2LY2KT6QBH0FT
+/Game/__ExternalActors__/Maps/Test/3/VB/N99LJRAYZZ9FLHNZJ691QW
+/Game/__ExternalActors__/Maps/Test/2/SE/HSRAEHGPMCFQ6TYG8Q9JJJ
+/Game/__ExternalActors__/Maps/Test/8/K4/KYPEF1CA2JL9P3EHCDYY5H
+/Game/__ExternalActors__/Maps/Test/D/QC/LE2DTUGIIN7AE95P1SKT82
+/Game/__ExternalActors__/Maps/Test/3/V8/ZXIMVHIV2IU0Y60LFBJP6D
+/Game/__ExternalActors__/Maps/Test/6/FV/WYKK6H3S6O0H5GPHWLID18
+/Game/__ExternalActors__/Maps/Test/4/O6/RXD9P562IIEB59OE0XGAR5
+/Game/__ExternalActors__/Maps/Test/0/AB/WQRWJMMD4YBK2ST95HRMBV
+/Game/__ExternalActors__/Maps/Test/5/AG/BDWWPQOD9MXMPCY437UBDD
+/Game/__ExternalActors__/Maps/Test/1/CN/7U4VIK8P30CX4XFMMMRH12
+/Game/__ExternalActors__/Maps/Test/3/H9/EG2QOVC3WDM498ZGZ04K0K
+/Game/__ExternalActors__/Maps/Test/B/8U/K3VICQMUNIJT5JIUYSE557
+/Game/__ExternalActors__/Maps/Test/1/GT/1D4MN9EQMD12MPBF19JN7I
+/Game/__ExternalActors__/Maps/Test/F/4Y/F70WF995RUPYKWSZTUEKYZ
+/Game/__ExternalActors__/Maps/Test/A/2I/5FXPO6K473NXG3B23S7IU9
+/Game/__ExternalActors__/Maps/Test/5/YM/EMQJZN228UD9VGUGKGX57U
+/Game/__ExternalActors__/Maps/Test/B/GN/6TORMH28MBZXBY9CVENFDP
+/Game/__ExternalActors__/Maps/Test/B/1A/VX0NCJP2WM5WO41XCFZ0OS
+/Game/__ExternalActors__/Maps/Test/7/TS/6EU5TFSHQIXJNCN6I0VR65
+/Game/__ExternalActors__/Maps/Test/2/GR/P1JP5Z8QV57BU6OBCENNX5
+/Game/__ExternalActors__/Maps/Test/6/2J/S037ADD9A2W6XZW79M0EYA
+/Game/__ExternalActors__/Maps/Test/6/5R/WB3X9TSM4I15B3ED02MAI2
+/Game/__ExternalActors__/Maps/Test/B/MV/K9JGHJQ82UP4T0KD2F8AMU
+/Game/__ExternalActors__/Maps/Test/1/OW/WKBFV7RKB1WQFCAMS6F5XF
+/Game/__ExternalActors__/Maps/Test/7/AM/LOCABPWEO5K884BQSATFGT
+/Game/__ExternalActors__/Maps/Test/2/SW/W27TKYGHJFR4EPXKE1L887
+/Game/__ExternalActors__/Maps/Test/0/I4/O99A9TKMSKXBESF9A8POQ3
+/Game/__ExternalActors__/Maps/Test/5/DE/6SNDF8M9CHXVXISBQ1RS99
+/Game/__ExternalActors__/Maps/Test/4/0G/YC9G54N7N0EX87TXXFOO1N
+/Game/__ExternalActors__/Maps/Test/4/IA/E6MPKG890N4I58X2SNLJN5
+/Game/__ExternalActors__/Maps/Test/C/98/TZ9XB65P114PHP6TK01AM7
+/Game/__ExternalActors__/Maps/Test/D/N1/C0KB5JSSYE9SWQ43KMSGRL
+/Game/__ExternalActors__/Maps/Test/A/ML/U7JEMS8CO47EE84WYAY5X3
+/Game/__ExternalActors__/Maps/Test/5/MZ/ZKODWF1T4ALFW3HWBIB7NG
+/Game/__ExternalActors__/Maps/Test/8/JZ/N79ZFLKZ3GN92QCGZ1WI8F
+/Game/__ExternalActors__/Maps/Test/2/9T/MPGTT4M2G8ESK8H6SUE768
+/Game/__ExternalActors__/Maps/Test/8/NL/LIZVWALDNAWQXKN273XB24
+/Game/__ExternalActors__/Maps/Test/4/VF/7CRIR6KNS5KC2FUSJIQ5QY
+/Game/__ExternalActors__/Maps/Test/B/IV/LJLMRTDIGMKL41M3MSNN95
+/Game/__ExternalActors__/Maps/Test/E/98/CA5HG0FP75B2OT2XFSD7WA
+/Game/__ExternalActors__/Maps/Test/7/NT/348UGGCE5ZDBLLFUT7O63L
+/Game/__ExternalActors__/Maps/Test/7/JS/RFJ7NKTXQ2T4HVVY78FN4X
+/Game/__ExternalActors__/Maps/Test/5/OA/ZS0IOQ1O25V2XR8EYHRJZY
+/Game/__ExternalActors__/Maps/Test/9/ZN/QU5AHJPLVW2YIL7GS1EVLL
+/Game/__ExternalActors__/Maps/Test/9/3J/93KLCJ5NGD8SYHQX6YBHP5
+/Game/__ExternalActors__/Maps/Test/9/TY/6VT6EE8W7Q41ZRE4FE5TKJ
+/Game/__ExternalActors__/Maps/Test/1/53/5NX6X2P1O16GE3T95AYOLE
+/Game/__ExternalActors__/Maps/Test/B/S0/5K9V10T5N3ITZSA05T8GVE
+[2025.10.28-13.17.30:156][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.28-13.17.30:173][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.28-13.17.30:193][950]LogSavePackage: Moving output files for package: /Game/Maps/Test
+[2025.10.28-13.17.30:193][950]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/TestB1F165B24FFEC405B7DEC287A1A4BDB3.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Maps/Test.umap'
+[2025.10.28-13.17.30:472][950]LogFileHelpers: Saving map 'Test' took 16.138
+[2025.10.28-13.17.30:472][950]Cmd: MAP LOAD FILE="../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.10.28-13.17.30:472][950]LightingResults: New page: Lighting Build
+[2025.10.28-13.17.30:472][950]LoadErrors: New page: Loading map: Test.umap
+[2025.10.28-13.17.30:518][950]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.17.30:518][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.17.30:533][950]MapCheck: New page: Map Check
+[2025.10.28-13.17.30:533][950]LightingResults: New page: Lighting Build
+[2025.10.28-13.17.30:545][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-13.17.30:574][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.28-13.17.30:595][950]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2025.10.28-13.17.30:595][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.28-13.17.30:596][950]LogAIModule: Creating AISystem for world Test
+[2025.10.28-13.17.30:598][950]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.28-13.17.30:598][950]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2025.10.28-13.17.31:007][950]LogWorldPartition: Display: WorldPartition initialize took 409 ms
+[2025.10.28-13.17.31:410][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.28-13.17.31:425][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.28-13.17.31:462][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.28-13.17.31:462][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.499ms to complete.
+[2025.10.28-13.17.31:462][950]LogFileHelpers: Loading map 'Test' took 0.990
+[2025.10.28-13.17.31:513][950]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.28-13.17.31:513][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2025.10.28-13.17.31:513][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2025.10.28-13.17.31:515][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/Test.Test:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating SkyAtmosphere /Game/Maps/Test.Test:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating DirectionalLight /Game/Maps/Test.Test:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating VolumetricCloud /Game/Maps/Test.Test:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2025.10.28-13.17.31:516][950]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/Maps/Test.Test:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating SkyLight /Game/Maps/Test.Test:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Test.Test:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating Landscape /Game/Maps/Test.Test:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating ExponentialHeightFog /Game/Maps/Test.Test:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating HLODLayer /Game/Maps/Test_HLOD0_Instancing.Test_HLOD0_Instancing
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Test.Test:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Test.Test:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Test.Test:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Test.Test:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Test.Test:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating WorldDataLayers /Game/Maps/Test.Test:PersistentLevel.WorldDataLayers
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating World /Game/Maps/Test.Test
+[2025.10.28-13.17.31:517][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d
+[2025.10.28-13.17.31:517][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d'
+[2025.10.28-13.17.31:518][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_0000000010d5f002
+[2025.10.28-13.17.31:518][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_0000000010d5f002'
+[2025.10.28-13.17.31:518][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000d190b65e
+[2025.10.28-13.17.31:518][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000d190b65e'
+[2025.10.28-13.17.31:518][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_0000000053252892
+[2025.10.28-13.17.31:518][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_0000000053252892'
+[2025.10.28-13.17.31:518][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc
+[2025.10.28-13.17.31:518][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc'
+[2025.10.28-13.17.31:518][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000837d3c27
+[2025.10.28-13.17.31:519][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000837d3c27'
+[2025.10.28-13.17.31:519][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000596e8a41
+[2025.10.28-13.17.31:519][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000596e8a41'
+[2025.10.28-13.17.31:519][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000d560b8ee
+[2025.10.28-13.17.31:519][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000d560b8ee'
+[2025.10.28-13.17.31:519][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0
+[2025.10.28-13.17.31:519][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0'
+[2025.10.28-13.17.31:519][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000d580238e
+[2025.10.28-13.17.31:519][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000d580238e'
+[2025.10.28-13.17.31:519][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_000000001344ec12
+[2025.10.28-13.17.31:520][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_000000001344ec12'
+[2025.10.28-13.17.31:520][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_000000002e9978b4
+[2025.10.28-13.17.31:520][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_000000002e9978b4'
+[2025.10.28-13.17.31:520][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_000000006f064fc3
+[2025.10.28-13.17.31:520][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_000000006f064fc3'
+[2025.10.28-13.17.31:520][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1
+[2025.10.28-13.17.31:520][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1'
+[2025.10.28-13.17.31:520][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000c6baa641
+[2025.10.28-13.17.31:520][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000c6baa641'
+[2025.10.28-13.17.31:520][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000adcdef81
+[2025.10.28-13.17.31:520][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000adcdef81'
+[2025.10.28-13.17.31:520][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000dea15624
+[2025.10.28-13.17.31:521][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000dea15624'
+[2025.10.28-13.17.31:521][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000dfad0108
+[2025.10.28-13.17.31:521][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000dfad0108'
+[2025.10.28-13.17.31:521][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_0000000083c582a7
+[2025.10.28-13.17.31:521][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_0000000083c582a7'
+[2025.10.28-13.17.31:521][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000923d253d
+[2025.10.28-13.17.31:521][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_00000000923d253d'
+[2025.10.28-13.17.31:521][950]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_000000004e144344
+[2025.10.28-13.17.31:521][950]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Test.Test:PersistentLevel.HLOD0_Instancing_000000004e144344'
+[2025.10.28-13.17.47:129][132]LogSlate: Took 0.000409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.28-13.17.52:715][191]LogDerivedDataCache: C:/Users/micro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.012 and deleted 0 file(s) with total size 0 MiB.
+[2025.10.28-13.21.01:702][367]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.28-13.21.01:726][367]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.28-13.21.01:742][368]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.28-13.21.12:029][669]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.10.28-13.21.12:029][669]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.28-13.22.48:712][113]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.28-13.22.48:731][113]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.28-13.22.48:766][115]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.28-13.22.52:967][188]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2025.10.28-13.22.52:967][188]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.28-13.23.03:803][629]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.10.28-13.23.03:804][629]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.10.28-13.23.08:044][755]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.28-13.23.30:388][755]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.28-13.23.30:422][755]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.28-13.23.30:434][755]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.28-13.23.30:469][757]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.28-13.23.38:195][126]LogContentBrowser: Attempting asset rename: NewBlueprint -> HG_GameInstance
+[2025.10.28-13.23.38:229][126]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.28-13.23.38:814][149]LogSavePackage: Moving output files for package: /Game/Blueprints/Game/HG_GameInstance
+[2025.10.28-13.23.38:815][149]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/HG_GameInstance79A8ACFE40401385BCED08B7BC887178.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Blueprints/Game/HG_GameInstance.uasset'
+[2025.10.28-13.23.38:871][149]AssetCheck: New page: Asset Save: HG_GameInstance
+[2025.10.28-13.23.38:871][149]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Game/HG_GameInstance.HG_GameInstance
+[2025.10.28-13.23.54:957][345]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2025.10.28-13.24.01:473][635]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.28-13.25.35:138][137]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.28-13.25.35:155][137]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.28-13.25.35:171][138]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.28-13.25.38:861][303]LogContentBrowser: Attempting asset rename: NewFolder -> Level1
+[2025.10.28-13.25.38:861][303]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.28-13.25.52:775][562]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.28-13.25.52:830][562]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.28-13.25.52:842][562]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.28-13.25.52:873][564]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.28-13.26.01:844][984]LogContentBrowser: Attempting asset rename: NewBlueprint -> L1_GameModeBase
+[2025.10.28-13.26.01:873][984]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.28-13.26.02:462][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Game/Level1/L1_GameModeBase
+[2025.10.28-13.26.02:462][  6]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/L1_GameModeBaseF463C7054D0BA6146D2A26820F2E33C3.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Blueprints/Game/Level1/L1_GameModeBase.uasset'
+[2025.10.28-13.26.02:521][  6]AssetCheck: New page: Asset Save: L1_GameModeBase
+[2025.10.28-13.26.02:521][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Game/Level1/L1_GameModeBase.L1_GameModeBase
+[2025.10.28-13.26.14:441][212]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.28-13.27.06:227][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.28-13.27.06:237][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Test_Auto1
+[2025.10.28-13.27.06:237][483]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/Test_Auto10C32513D4A7980C0780B3EBCDF416303.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/Autosaves/Game/Maps/Test_Auto1.umap'
+[2025.10.28-13.27.06:243][483]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test' took 0.034
+[2025.10.28-13.27.06:243][483]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2025.10.28-13.27.40:899][611]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.28-13.27.40:934][611]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.28-13.27.40:948][611]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.28-13.27.40:964][612]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.28-13.27.51:976][138]LogContentBrowser: Attempting asset rename: NewBlueprint -> L1_GameStateBase
+[2025.10.28-13.27.51:984][138]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.28-13.27.52:540][159]LogSavePackage: Moving output files for package: /Game/Blueprints/Game/Level1/L1_GameStateBase
+[2025.10.28-13.27.52:541][159]LogSavePackage: Moving '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Saved/L1_GameStateBase3685C1AA46F07145AFA419948DF7B05C.tmp' to '../../../../../../Users/micro/OneDrive/Documents/Unreal Projects/HorrorGame/Content/Blueprints/Game/Level1/L1_GameStateBase.uasset'
+[2025.10.28-13.27.52:605][159]AssetCheck: New page: Asset Save: L1_GameStateBase
+[2025.10.28-13.27.52:605][159]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Game/Level1/L1_GameStateBase.L1_GameStateBase
+[2025.10.28-13.28.09:161][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game/Level1/L1_GameModeBase.L1_GameModeBase
+[2025.10.28-13.28.09:164][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
